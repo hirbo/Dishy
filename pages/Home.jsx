@@ -1,6 +1,6 @@
 import React, { useLayoutEffect } from 'react'
 import { View ,Text} from 'react-native'
-import { useNavigation } from 'react-router-dom'
+import { useNavigation } from 'react-native-navigation'
 
 function Home() {
 const navigation = useNavigation
