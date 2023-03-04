@@ -20,6 +20,8 @@ function RestuarantCard({
 }) {
   const navigation = useNavigation();
   //jijkjsndjcnd
+  //jijkjsndjcnd
+  //jijkjsndjcnd
   return (
     <TouchableOpacity
       onPress={() => {
