@@ -19,7 +19,7 @@ function RestuarantCard({
   latitude,
 }) {
   const navigation = useNavigation();
-
+  //jijkjsndjcnd
   return (
     <TouchableOpacity
       onPress={() => {
